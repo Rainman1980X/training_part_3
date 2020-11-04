@@ -4,6 +4,7 @@ An application for e-commerce.
 ## LINKs
 * https://ng-bootstrap.github.io
 * https://www.freecodecamp.org/news/10-npm-tricks-that-will-make-you-a-pro-a945982afb25/
+* https://getbootstrap.com/docs/4.5/getting-started/introduction/
 
 ## Setup the system
 * ng n EcommerceApp
